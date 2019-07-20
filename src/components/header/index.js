@@ -22,7 +22,7 @@ const Header = () => {
       </section>
       <div className="auth">
         <div>
-          <NavLink to="/login">Login</NavLink>
+          <NavLink to="/login">Login/Logout</NavLink>
         </div>
       </div>
     </header>
