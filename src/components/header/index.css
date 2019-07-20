@@ -1,0 +1,35 @@
+#news-header {
+    background: #ff6600;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 5px;
+    margin-top: 7px;
+}
+
+#news-header section {
+    display: flex;
+    align-items: center;
+}
+
+#news-header a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    text-transform: lowercase;
+}
+
+.brand a {
+    text-transform: capitalize !important;
+    margin-right: 8px;
+}
+
+#news-header .nav ul {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.nav li {
+    margin-right: 5px;
+  }

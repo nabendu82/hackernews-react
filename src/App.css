@@ -1,0 +1,10 @@
+.App {
+  width: 85%;
+  margin: 0 auto;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,27 @@
+.post {
+    display: flex;
+    margin-bottom: 5px;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.post button {
+    background: transparent;
+    border: none;
+    color: grey;
+    cursor: pointer;
+}
+
+.post a {
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+}
+
+.post .meta {
+    font-size: 9px;
+    color: #828282;
+}
+
+.meta span {
+    margin-right: 3px;
+}
